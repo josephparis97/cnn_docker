@@ -1,0 +1,1 @@
+ docker run --name joseph_cnn --rm -i -t ubuntu bash
