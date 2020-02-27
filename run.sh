@@ -1,1 +1,1 @@
-docker run --rm -v $(pwd)/src:/src -it --gpus all -e LD_LIBRARY_PATH=/usr/local/cuda/lib64 paris_cnn
+docker run --rm -v $(pwd)/src:/src -it --gpus all -e LD_LIBRARY_PATH=/usr/local/cuda/lib64 paris_cnn bash
